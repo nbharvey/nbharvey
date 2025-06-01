@@ -8,4 +8,4 @@
 - ⚡ Fun fact: I used to be an elementary school teacher!
     Now I'm channeling that energy into building engaging, inclusive, and curiosity-driven apps that help students learn.
     I’m also working on a personal project: a triathlon tracker app to support my training goals.
-- 💕 Check out what I’m building at [Naomi's Portfolio](link coming soon)!
+- 💕 Check out what I’m building at [Naomi's Portfolio] (https://naomicodes.netlify.app/)!
